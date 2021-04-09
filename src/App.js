@@ -66,7 +66,7 @@ class App extends Component {
         <p1>This is really working</p1>
         <p><button 
         onClick={this.togglePersonHandler}>Toogle Person</button></p>
-         {persons}
+         {persons} 
       </div>
     );
   }
